@@ -2,7 +2,7 @@
 
 .contenido {
     background: url('../../img/1892778.jpg');
-    width: 100vw;
+    /* width: 100vw; */
     height: 100vh;
     background-position: center center;
 	background-size: cover;
@@ -251,7 +251,7 @@
     }
 
     .inicio > .titulo {
-        width: 100vw;
+        width: 100%;
         margin: 0 !important;
         margin-left: 20px !important;
         margin-right: 20px !important;
