@@ -3,7 +3,7 @@ export const NAME = 'Reginald Newsome';
 export const HEADER_NAME = 'Red Horizon';
 export const FIRST_NAME = 'Reginald';
 export const CREATED_BY = 'Powered by Red Horizon, LLC';
-export const ABOUT_ME = 'I am a proficient and self-motivated Software Developer with 8 years of successful experience. My passion for working in this field is immense, and I am always eager to learn the latest and most updated materials. I consistently strive to improve my skills and deliver high-quality work. Apart from my technical expertise, I possess a keen eye for design and user experience. This allows me to create intuitive and engaging interfaces that keep users coming back for more. Whether you need a new website, an overhaul of an existing application, or a custom e-commerce platform, I have the necessary expertise and experience to deliver exceptional results.I strongly believe in the values of hard work and honesty. Building long-term professional relationships with my clients is of utmost importance to me, as it ensures the success of every project.';
+export const ABOUT_ME = 'I am a proficient and self-motivated Software Engineer with 10 years of successful experience. My passion for working in this field is immense, and I am always eager to learn the latest and most updated materials. I consistently strive to improve my skills and deliver high-quality work. Apart from my technical expertise, I possess a keen eye for design and user experience. This allows me to create intuitive and engaging interfaces that keep users coming back for more. Whether you need a new website, an overhaul of an existing application, or a custom e-commerce platform, I have the necessary expertise and experience to deliver exceptional results.I strongly believe in the values of hard work and honesty. Building long-term professional relationships with my clients is of utmost importance to me, as it ensures the success of every project.';
 
 // Contact Info
 export const SKYPE_ADDRESS = 'https://join.skype.com/invite/AGyagxbP7JJs';
@@ -12,6 +12,7 @@ export const GMAIL_ADDRESS = 'mailTo:redhorizon.llc@gmail.com';
 export const DISCORD_ADDRESS = '';
 export const TELEGRAM_ADDRESS = 'https://t.me/SeniorDev0918';
 export const INSTAGRAM_ADDRESS = 'https://instagram.com/m.edison_ai?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr';
+export const LINKEDIN_ADDRESS = 'https://www.linkedin.com/in/reginald-newsome-50b44629a/';
 
 // Main Intro
 export const INTRO_HEADER = [
@@ -20,13 +21,13 @@ export const INTRO_HEADER = [
     "CEO + MD",
 ];
 
-export const INTRO_CONTENT = "In each project, I adopt a cycle of constant iteration, learning quickly and adapting.This method, focused on surpassing my previous work, has resulted in a 70% repeat hire rate. As a result, I’ve had the pleasure of collaborating with some clients for over 8 years. For me, this isn't just a job; it's a passion fueled by continual growth and the excitement of evolving with each challenge.";
+export const INTRO_CONTENT = "In each project, I adopt a cycle of constant iteration, learning quickly and adapting.This method, focused on surpassing my previous work, has resulted in a 70% repeat hire rate. As a result, I’ve had the pleasure of collaborating with some clients for over 8 years. For me, this isn't just a job. it's a passion fueled by continual growth and the excitement of evolving with each challenge.";
 
 // What i am
-export const WHO_I_AM_TITLE = 'My name is ' + NAME + ' and I am a full stack developer.';
+export const WHO_I_AM_TITLE = 'My name is ' + NAME + ' and I am a senior software engineer.';
 export const WHO_I_AM_CONTENT = [
-    "Over the past 8 years, I have worked as a Full Stack developer in the field of Web/Mobile Application development.",
-    "In addition to the technical skills, I have a keen eye for design and user experience, allowing me to create intuitive and engaging interfaces that keep users coming back. Throughout my career, I have been involved in both native and cross-platform development. My dedication to critical thinking, meticulousness, and staying up-to-date with the latest technologies has enabled me to progress to the position of a senior full stack developer in my current role.",
+    "Over the past 10 years, I have worked as a senior software engineer in the field of Web/Mobile Application development.",
+    "In addition to the technical skills, I have a keen eye for design and user experience, allowing me to create intuitive and engaging interfaces that keep users coming back. Throughout my career, I have been involved in both native and cross-platform development. My dedication to critical thinking, meticulousness, and staying up-to-date with the latest technologies has enabled me to progress to the position of a senior software engineer in my current role.",
     "Due to the pandemic, I had to transition to remote work, and I discovered that it was an exciting and efficient method of working. I thoroughly enjoyed the experience and found it to be highly productive. I always strive to build long-term professional relationships with my clients. This approach ensures that every project I undertake becomes successful."
 ];
 

@@ -123,6 +123,21 @@ const Contact = () => (
         </div>
         <div className="text">Instagram</div>
       </a>
+      <a
+        href={Constant.LINKEDIN_ADDRESS}
+        target="_blank"
+        rel="noopener noreferrer"
+        data-aos="zoom-in"
+      >
+        <div className="layer">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span className="fab fa-linkedin"></span>
+        </div>
+        <div className="text">LinkedIn</div>
+      </a>
     </div>
   </section>
   // <section className="contactos" id="contactos">

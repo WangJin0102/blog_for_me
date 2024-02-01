@@ -7,7 +7,7 @@ const DarkMode = () => {
   const lightTheme = "light";
   const darkTheme = "dark";
   let theme;
-  localStorage.setItem("theme", "light");
+  localStorage.setItem("theme", "dark");
 
   if (localStorage) {
     theme = localStorage.getItem("theme");

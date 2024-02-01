@@ -67,7 +67,7 @@ const ProjectApp = () => {
           </section>
 
         <section className="projects__grid web">
-          <div className="projects__item">
+          {/* <div className="projects__item">
             <a onClick={() => cambiarEstadoModal17(!estadoModal17)}>
               <img src={proyectsImg(`./pro_web/pro_1.jpg`)} alt="" className="projects__img" />
             </a>
@@ -76,7 +76,7 @@ const ProjectApp = () => {
             <a onClick={() => cambiarEstadoModal14(!estadoModal14)}>
               <img src={proyectsImg(`./pro_web/pro_2.png`)} alt="" className="projects__img" />
             </a>
-          </div>
+          </div> */}
           <div className="projects__item">
             <a onClick={() => cambiarEstadoModal15(!estadoModal15)}>
               <img src={proyectsImg(`./pro_web/pro_3.png`)} alt="" className="projects__img" />
