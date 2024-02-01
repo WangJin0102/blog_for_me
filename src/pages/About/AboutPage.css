@@ -112,6 +112,11 @@ section .row .columns{
     overflow-x: hidden!important;
 }
 
+.skill-seccion {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
 section .row .columns h3{
     font-size: 2rem;
     color: var(--light-color);
