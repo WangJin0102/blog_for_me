@@ -21,7 +21,7 @@ const Content = () => (
                     </h1>
           })
         }
-        <p className="h_intro"><q>{Constant.INTRO_CONTENT}</q></p>
+        <p className="h_intro">{Constant.INTRO_CONTENT}</p>
 
         <div className="wrapper">
           <a
@@ -88,6 +88,19 @@ const Content = () => (
               <i className="fab fa-instagram"></i>
             </div>
             <span>Instagram</span>
+          </a>
+          <a
+            className="button"
+            href={Constant.LINKEDIN_ADDRESS}
+            target="_blank"
+            rel="noopener noreferrer"
+            data-aos="fade-up"
+            data-aos-delay="1200"
+          >
+            <div className="icon">
+              <i className="fab fa-linkedin"></i>
+            </div>
+            <span>LinkedIn</span>
           </a>
         </div>
 
